@@ -6,9 +6,11 @@ weather history의 features
 
 <img width="442" alt="image" src="https://user-images.githubusercontent.com/83813866/169638004-73d152a0-ed80-4abb-8090-981ca89c6daf.png">
 
+
 선형 모델의 coefficient 값과 MSE
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/83813866/169638046-cf7899e3-346f-4323-b061-8a6feb03811d.png">
+
 
 예측값과 실제값을 그래프로 그린 것
 
