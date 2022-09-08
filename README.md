@@ -1,20 +1,20 @@
-## 데이터 분석 과목 python_term_project
+# Sensory Temperature Prediction
+* Sensory Temperature Prediction using Linear Regression
+* Data Analysis Course python term project
+* Code for predicting the temperature of a particular region from April 2006 to September 2016 using data that recorded temperature, humidity, wind speed, etc
 
-2006년 4월부터 2016년 9월까지의 특정 지역의 날씨를 기록해놓은 데이터를 사용하여 기온, 습도, 풍속 등의 값을 통해 체감 온도를 예측한다.
+## weather history features
 
-weather history의 features
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/83813866/169638004-73d152a0-ed80-4abb-8090-981ca89c6daf.png">
 
-<img width="442" alt="image" src="https://user-images.githubusercontent.com/83813866/169638004-73d152a0-ed80-4abb-8090-981ca89c6daf.png">
+
+## coefficients, MSE value of Linear Regression Model
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/83813866/169638046-cf7899e3-346f-4323-b061-8a6feb03811d.png">
 </br>
 
 
-선형 모델의 coefficient 값과 MSE
-
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/83813866/169638046-cf7899e3-346f-4323-b061-8a6feb03811d.png">
-</br>
-
-
-예측값과 실제값을 그래프로 그린 것
+## Visualization of the relationship between predicted and actual values
 
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/83813866/169638052-0f83f2be-11d2-43bd-bb98-1571d16ac135.png">
 </br>
